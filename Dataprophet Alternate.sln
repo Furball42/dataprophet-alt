@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5FDE76D6-C88A-7349-0280-7C2267046B32}") = "Dataprophet Alternate", "Assembly-CSharp.csproj", "{AB7A83A8-66D2-CE50-0115-F79D2476FF85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7A83A8-66D2-CE50-0115-F79D2476FF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7A83A8-66D2-CE50-0115-F79D2476FF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7A83A8-66D2-CE50-0115-F79D2476FF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7A83A8-66D2-CE50-0115-F79D2476FF85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
